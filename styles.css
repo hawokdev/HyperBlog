@@ -12,6 +12,21 @@ body
     justify-content: center;
     align-items: center;
     border-radius: 5px;
-    box-shadow: 5px 5px 5px 5px rgba(189, 170, 170, 0.5);
-    margin: 0 auto;
+    box-shadow: 3px 3px 3px 5px rgba(189, 170, 170, 0.5);
+    margin: 10px auto;
+}
+.blogpost h1
+{
+    margin-left: 10px;
+}
+.header 
+{
+    width: 100%;
+    height: auto;
+    background-color: royalblue;
+    color: white;
+}
+.header h1
+{
+    margin: 0;
 }
